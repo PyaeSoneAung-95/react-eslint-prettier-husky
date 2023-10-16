@@ -8,6 +8,7 @@ function App() {
       <p>Add another text</p>
       <button>Add some button</button>
       <button>Add another button </button>
+      <h1>Hello</h1>
     </>
   );
 }
