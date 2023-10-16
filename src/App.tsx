@@ -5,7 +5,7 @@ function App() {
       <p>Make some changes in App component!</p>
       <p>Add another text</p>
       <button>Add some button</button>
-      <button>Good </button>
+      <button>Good let make some changes</button>
 
       <h1>Hello</h1>
     </>
