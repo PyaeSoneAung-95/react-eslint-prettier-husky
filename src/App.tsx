@@ -1,6 +1,4 @@
 function App() {
-
-
   return (
     <>
       <button disabled type="button">
@@ -9,8 +7,6 @@ function App() {
       <p>Make some changes in App component!</p>
       <p>Add another text</p>
     </>
-
-    
   );
 }
 
