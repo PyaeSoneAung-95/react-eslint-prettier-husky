@@ -6,6 +6,6 @@ describe("App", () => {
     render(<App />);
     const button = screen.getByRole("button");
 
-    expect(button).toBeEnabled();
+    expect(button).toBeDisabled();
   });
 });
