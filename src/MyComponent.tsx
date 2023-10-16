@@ -1,1 +1,3 @@
-export const Bar = () => <></>;
+export const Bar = () => (
+  <></>
+);
