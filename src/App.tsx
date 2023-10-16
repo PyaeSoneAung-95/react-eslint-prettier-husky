@@ -2,9 +2,9 @@ function App() {
   return (
     <>
       <button type="button">Click me</button>
-      <p>Make some changes in App component!</p>
+      <p>Change</p>
       <p>Add another text</p>
-      <button>Add some button</button>
+      <button>Hello kidde Add some button</button>
       <button>Good let make some changes</button>
 
       <h1>Hello</h1>
