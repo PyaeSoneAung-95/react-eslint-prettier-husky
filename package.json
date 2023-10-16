@@ -15,7 +15,7 @@
       "eslint"
     ],
     "*.{tsx,css,ts,js,jsx,cjs,html,json}": [
-      "prettier --write ."
+      "prettier --write"
     ]
   },
   "dependencies": {
