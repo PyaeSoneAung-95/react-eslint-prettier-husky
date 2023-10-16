@@ -15,7 +15,7 @@
       "eslint"
     ],
     "*.{tsx,css,ts,js,jsx,cjs}": [
-      "prettier --write --ignore-unknown"
+      "prettier --write --cache-clear"
     ]
   },
   "dependencies": {
