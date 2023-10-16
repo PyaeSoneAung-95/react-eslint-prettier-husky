@@ -14,7 +14,7 @@
     "*.{tsx,ts,js,jsx}": [
       "eslint"
     ],
-    "*.{tsx,css,ts,js,jsx}": [
+    "*.{tsx,css,ts,js,jsx,cjs}": [
       "prettier --write"
     ]
   },
