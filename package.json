@@ -14,8 +14,8 @@
     "*.{tsx,ts,js,jsx}": [
       "eslint"
     ],
-    "*.{tsx,css,ts,js,jsx,cjs}": [
-      "prettier --write --debug"
+    "*.{tsx,css,ts,js,jsx,cjs,html,json}": [
+      "prettier --write"
     ]
   },
   "dependencies": {
