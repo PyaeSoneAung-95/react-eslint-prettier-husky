@@ -12,7 +12,7 @@
     "prepare": "husky install"
   },
   "lint-staged":{
-    "*.{tsx,ts,js,jsx}":["eslint --fix", "eslint"]
+    "*.{tsx,ts,js,jsx}":["eslint --fix"]
   },
   "dependencies": {
     "lint-staged": "^15.0.1",
