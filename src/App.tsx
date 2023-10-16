@@ -7,7 +7,8 @@ function App() {
       <p>Make some changes in App component!</p>
       <p>Add another text</p>
       <button>Add some button</button>
-      <button>Add another button </button>
+      <button>Good </button>
+
       <h1>Hello</h1>
     </>
   );
