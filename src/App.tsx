@@ -1,13 +1,12 @@
 function App() {
-  const name = "good";
   return (
     <>
       <button disabled type="button">
-        Click me {name}
+        Click me
       </button>
       <p>Make some changes in App component!</p>
       <p>Add another text</p>
-      <button>Add some button </button>
+      <button>Add some button</button>
       <button>Add another button </button>
     </>
   );
